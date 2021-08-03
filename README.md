@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: awana4872@gmail.com...
 - ⚡ Fun fact: I love complexity of Js Sometimes.
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
