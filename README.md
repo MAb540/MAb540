@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I am currently working on Personal Projects.
-- 🌱 I am currently learning Node js.
+- 🔭 I am currently working at Techwards.
+- 🌱 I am currently learning Microservices.
 - 👯 I’m looking to collaborate with different Organizations.
 - 🤔 I would like to help others.
 - 💬 Ask me about the tech Stack i have worked with ...
