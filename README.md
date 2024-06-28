@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github https://github.com/MAb540/MAb540  Linkedin 
+Github https://github.com/MAb540/MAb540   
 
 <!--
 **MAb540/MAb540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
