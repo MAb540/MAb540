@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I am currently working at Techwards.
-- 🌱 I am currently learning Microservices.
+- 🔭 I am currently working as Freelance Consultant.
+- 🌱 I am currently learning Cloud Native Technologies.
 - 👯‍♂️ I’m looking to collaborate with different Organizations.
 - 🤔 I would like to help others.
-- 💬 Ask me about the tech stack I have worked with...
+- 💬 Ask me about the things you are interested to know
 - 📧 How to reach me: awana4872@gmail.com.
-- ⚡ Fun fact: I love the complexity of JS sometimes.
+- ⚡ Fun fact: Simply designed systems are the most scalabale systems.
 
 
 ### Technologies & Tools
