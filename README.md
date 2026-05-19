@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 👯‍♂️ I’m looking to collaborate with different Organizations.
 - 🤔 I would like to help others.
 - 💬 Ask me about the things you are interested to know
-- 📧 How to reach me: awana4872@gmail.com.
 - ⚡ Fun fact: Simply designed systems are the most scalabale systems.
 
 
