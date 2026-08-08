@@ -49,18 +49,49 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### AWS Services:
-
+Compute
 ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![EKS](https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=blue)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+Storage
 ![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Dynamo Db](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+
+
+Networking
+![VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![Subnets](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![Route Tables](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![NAT and IG Gateways](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+Security Groups
+NACL
+![Route53](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![ALB](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![NLB](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![Cloudfront](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![VPC Endpoints](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![Gateway Endpoints](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+![AWS Private Link](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
+
+
+Events, ETL Pipelines, Streaming, Real time, Near Real Time
 ![SQS](https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white)
 ![SNS](https://img.shields.io/badge/AWS_SNS-FF4F8B?style=for-the-badge&logo=amazon-sns&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazon-vpc&logoColor=white)
 ![Kinesis Data Streams](https://img.shields.io/badge/AWS_Kinesis_Data_Streams-FF4F00?style=for-the-badge&logo=amazon-kinesis&logoColor=white) 
 ![Kinesis Firehose](https://img.shields.io/badge/AWS_Kinesis_Firehose-FF4F00?style=for-the-badge&logo=amazon-kinesis&logoColor=white)
- <img src="https://shields.io" alt="NodeJS" />
+
+Observability, Monitoring and Security
+![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Config](https://img.shields.io/badge/AWS_CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+AWS Systems Manager (SSM)
+Inspector, GuardDuty, and 
+AWS WAF (Web Application Firewall)
+Amazon Macie
+VPC Flow Logs:
 
 
